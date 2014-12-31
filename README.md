@@ -1,7 +1,7 @@
 GCM Android App
 ===============
 
------------- HAS A KNOWEN PROBLEM, IN A FEW DAYS THERE WILL BE AN UPDATE -----------
+------------ Important: This Version here and on wordpress.org will be no longer supported because the plugin is now sold on CodeCanyon -----------
 
 The Android eclipse project for the wordpress plugin wp-gcm (http://wordpress.org/plugins/wp-gcm)
 
