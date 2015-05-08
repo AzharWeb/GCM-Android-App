@@ -1,4 +1,5 @@
 package com.pixelart.gcm;
+
 import android.app.IntentService;
 import android.app.NotificationManager;
 import android.support.v4.app.NotificationCompat;
