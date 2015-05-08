@@ -36,8 +36,8 @@ public class MainActivity extends Activity {
     private static final String PROPERTY_APP_VERSION = "appVersion";
     private final static int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 
-    String SENDER_ID = "your ID";
-	String URL = "http://px.hj.cx";
+    String SENDER_ID = "YOUR ID";
+	String URL = "YOUR URL";
     TextView mDisplay;
     GoogleCloudMessaging gcm;
     AtomicInteger msgId = new AtomicInteger();
